@@ -1,0 +1,11 @@
+2017-05-03 06:05:09 pid:5759 Workerman[queue.php] start in DAEMON mode
+2017-05-03 06:05:15 pid:5763 Workerman[start.php] start in DAEMON mode
+2017-05-03 06:05:50 pid:5776 Workerman[start.php] status 
+2017-05-03 06:06:10 pid:5782 Workerman[queue.php] status 
+2017-05-03 06:06:52 pid:5788 Workerman[queue.php] status 
+2017-05-03 06:08:03 pid:5800 Workerman[queue.php] status 
+2017-05-03 06:08:10 pid:5801 Workerman[start.php] stop 
+2017-05-03 06:08:10 pid:5801 Workerman[start.php] is stoping ...
+2017-05-03 06:08:10 pid:5765 Workerman[start.php] Stopping ...
+2017-05-03 06:08:15 pid:5801 Workerman[start.php] stop fail
+2017-05-03 06:08:18 pid:5804 Workerman[start.php] status 

@@ -1,0 +1,570 @@
+2017-05-03 06:05:15 qiubai : Beanbun worker 1 is starting ...
+2017-05-03 06:05:15 qiubai : Beanbun worker 2 is starting ...
+2017-05-03 06:05:15 qiubai : Beanbun worker 3 is starting ...
+2017-05-03 06:05:15 qiubai : Beanbun worker 0 is starting ...
+2017-05-03 06:05:15 qiubai : Beanbun worker 4 is starting ...
+2017-05-03 06:05:20 qiubai : Beanbun worker 0 download http://www.qiushibaike.com/ success.
+2017-05-03 06:05:25 qiubai : Beanbun worker 0 download http://www.qiushibaike.com/8hr/page/2?s=4979305 success.
+2017-05-03 06:05:30 qiubai : Beanbun worker 0 download http://www.qiushibaike.com/8hr/page/3?s=4979305 success.
+2017-05-03 06:05:35 qiubai : Beanbun worker 0 download http://www.qiushibaike.com/8hr/page/4?s=4979305 success.
+2017-05-03 06:05:41 qiubai : Beanbun worker 0 download http://www.qiushibaike.com/8hr/page/5?s=4979305 success.
+2017-05-03 06:05:46 qiubai : Beanbun worker 0 download http://www.qiushibaike.com/8hr/page/35?s=4979305 success.
+2017-05-03 06:05:50 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/31?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:05:50 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/7?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:05:50 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/32?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:05:50 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/6?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:05:51 qiubai : Beanbun worker 0 download http://www.qiushibaike.com/8hr/page/33?s=4979305 success.
+2017-05-03 06:05:55 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/6?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:05:55 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/7?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:05:55 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/31?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:05:56 qiubai : Beanbun worker 3 download http://www.qiushibaike.com/8hr/page/34?s=4979305 success.
+2017-05-03 06:05:56 qiubai : Beanbun worker 1 download http://www.qiushibaike.com/8hr/page/32?s=4979305 success.
+2017-05-03 06:06:00 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/31?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:00 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/31?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:00 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/31?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:00 qiubai : Beanbun worker 1 download http://www.qiushibaike.com/8hr/page/7?s=4979305 success.
+2017-05-03 06:06:00 qiubai : Beanbun worker 4 download http://www.qiushibaike.com/8hr/page/6?s=4979305 success.
+2017-05-03 06:06:05 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/31?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:05 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/31?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:05 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/8?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:05 qiubai : Beanbun worker 3 download http://www.qiushibaike.com/8hr/page/31?s=4979305 success.
+2017-05-03 06:06:05 qiubai : Beanbun worker 4 download http://www.qiushibaike.com/8hr/page/31?s=4979305 success.
+2017-05-03 06:06:10 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/30?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:10 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/29?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:10 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/8?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:11 qiubai : Beanbun worker 1 download http://www.qiushibaike.com/8hr/page/9?s=4979305 success.
+2017-05-03 06:06:11 qiubai : Beanbun worker 2 download http://www.qiushibaike.com/8hr/page/8?s=4979305 success.
+2017-05-03 06:06:15 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/30?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:15 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/29?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:15 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/30?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:15 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/10?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:16 qiubai : Beanbun worker 1 download http://www.qiushibaike.com/8hr/page/29?s=4979305 success.
+2017-05-03 06:06:20 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/10?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:20 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/30?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:20 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/30?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:20 qiubai : Beanbun worker 1 download http://www.qiushibaike.com/8hr/page/11?s=4979305 success.
+2017-05-03 06:06:20 qiubai : Beanbun worker 2 download http://www.qiushibaike.com/8hr/page/10?s=4979305 success.
+2017-05-03 06:06:25 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/30?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:25 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/28?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:25 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/30?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:25 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/30?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:26 qiubai : Beanbun worker 1 download http://www.qiushibaike.com/8hr/page/27?s=4979305 success.
+2017-05-03 06:06:30 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/12?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:30 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/30?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:30 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/30?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:30 qiubai : Beanbun worker 1 download http://www.qiushibaike.com/8hr/page/13?s=4979305 success.
+2017-05-03 06:06:31 qiubai : Beanbun worker 2 download http://www.qiushibaike.com/8hr/page/12?s=4979305 success.
+2017-05-03 06:06:35 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/30?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:35 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/25?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:35 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/26?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:35 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/28?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:36 qiubai : Beanbun worker 1 download http://www.qiushibaike.com/8hr/page/28?s=4979305 success.
+2017-05-03 06:06:40 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/30?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:40 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/14?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:40 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/15?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:40 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/14?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:40 qiubai : Beanbun worker 2 download http://www.qiushibaike.com/8hr/page/30?s=4979305 success.
+2017-05-03 06:06:45 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/26?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:45 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/26?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:45 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/14?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:45 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/15?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:45 qiubai : Beanbun worker 1 download http://www.qiushibaike.com/8hr/page/25?s=4979305 success.
+2017-05-03 06:06:50 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/26?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:50 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/26?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:50 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/14?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:50 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/15?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:51 qiubai : Beanbun worker 2 download http://www.qiushibaike.com/8hr/page/14?s=4979305 success.
+2017-05-03 06:06:55 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/23?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:55 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/26?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:55 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/26?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:55 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/26?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:06:56 qiubai : Beanbun worker 1 download http://www.qiushibaike.com/8hr/page/24?s=4979305 success.
+2017-05-03 06:07:00 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/16?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:00 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/15?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:00 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/23?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:00 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/26?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:00 qiubai : Beanbun worker 4 download http://www.qiushibaike.com/8hr/page/15?s=4979305 success.
+2017-05-03 06:07:05 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/26?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:05 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/23?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:05 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/22?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:05 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/26?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:06 qiubai : Beanbun worker 1 download http://www.qiushibaike.com/8hr/page/26?s=4979305 success.
+2017-05-03 06:07:10 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/23?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:10 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/16?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:10 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/17?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:10 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/23?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:11 qiubai : Beanbun worker 3 download http://www.qiushibaike.com/8hr/page/16?s=4979305 success.
+2017-05-03 06:07:15 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/23?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:15 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/23?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:15 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/17?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:15 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/17?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:16 qiubai : Beanbun worker 1 download http://www.qiushibaike.com/8hr/page/22?s=4979305 success.
+2017-05-03 06:07:20 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/17?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:20 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/23?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:20 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/23?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:20 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/17?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:21 qiubai : Beanbun worker 3 download http://www.qiushibaike.com/8hr/page/18?s=4979305 success.
+2017-05-03 06:07:25 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/17?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:25 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/23?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:25 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/20?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:25 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/23?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:26 qiubai : Beanbun worker 2 download http://www.qiushibaike.com/8hr/page/21?s=4979305 success.
+2017-05-03 06:07:30 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/23?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:30 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/17?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:30 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/19?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:30 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/20?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:31 qiubai : Beanbun worker 1 download http://www.qiushibaike.com/8hr/page/17?s=4979305 success.
+2017-05-03 06:07:35 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/20?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:35 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/19?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:35 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/23?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:35 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/20?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:36 qiubai : Beanbun worker 3 download http://www.qiushibaike.com/8hr/page/23?s=4979305 success.
+2017-05-03 06:07:40 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/20?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:40 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/20?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:40 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/19?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:40 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/19?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:41 qiubai : Beanbun worker 3 download http://www.qiushibaike.com/8hr/page/19?s=4979305 success.
+2017-05-03 06:07:45 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/20?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:45 qiubai : Server error: `GET http://www.qiushibaike.com/8hr/page/20?s=4979305` resulted in a `503 Service Temporarily Unavailable` response:
+<html>
+<head><title>503 Service Temporarily Unavailable</title></head>
+<body bgcolor="white">
+<center><h1>503 Service (truncated...)
+
+2017-05-03 06:07:46 qiubai : Beanbun worker 2 download http://www.qiushibaike.com/8hr/page/20?s=4979305 success.
+2017-05-03 06:07:46 qiubai : Beanbun worker 4 download http://www.qiushibaike.com/8hr/page/20?s=4979305 success.
