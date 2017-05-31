@@ -16,7 +16,7 @@ $beanbun->urlFilter = [
 // 设置队列
 $beanbun->setQueue('memory', [
     'host' => '127.0.0.1',
-     'port' => '2207'
+     'port' => '6380'
  ]);
 $beanbun->afterDownloadPage = function($beanbun) {
     file_put_contents(__DIR__ . '/' . md5($beanbun->url), $beanbun->page);
